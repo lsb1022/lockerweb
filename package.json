@@ -1,6 +1,6 @@
 {
   "name": "lockerweb",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "SSU IT Collage Locker system.",
   "private": true,
   "scripts": {
@@ -18,7 +18,8 @@
     "packages/*"
   ],
   "engines": {
-    "node": ">=22.0.0, <23.0.0"
+    "node": "^22",
+    "pnpm": ">=10"
   },
   "author": "EATSTEAK <me@eatsteak.dev>, Twince <tjsdn811@gmail.com>,  UnbroKen <unbroken2650@gmail.com>, SamSim <jun78111209@gmail.com>, intersoom <sallybig@naver.com>, Suho Han <hansuho36eie@soongsil.ac.kr>",
   "license": "MIT",
